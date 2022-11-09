@@ -4,14 +4,15 @@
 
 <template>
 
-    <h1>Ciao Vite</h1>
+    <p>
+        Made with &hearts; by Manuel.
+    </p>
 
 </template>
 
 <style>
-h1 {
+p {
+    padding-top: 15px;
     text-align: center;
-    padding-top: 25px;
-    font-size: 100px;
 }
 </style>
